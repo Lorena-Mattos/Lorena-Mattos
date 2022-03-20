@@ -12,7 +12,7 @@ Aspirante a dev, meu nome é Lorena, tenho 28 anos e vivo no Rio de Janeiro
 
 Quem é Lorena?
 
-Lorena é uma mulher lésbica, nascida e criada Campo Grande, Rio de Janeiro - RJ, fã de cultura pop, mãe de doguinha vira-lata chamada Khaleesi (sim, habemus aqui uma fã de Game of Thrones) e que está inteiramente disposta a viver e se desenvolver no mercado de tecnologia e inovação.
+Lorena é uma mulher lésbica, nascida e criada Campo Grande, Rio de Janeiro - RJ, fã de cultura pop, mãe de doguinha vira-lata chamada Khaleesi (sim, habemus aqui uma fã de Game of Thrones), participante do primeiro reality da área de programação do Brasil, o Show Me The Code e que está inteiramente disposta a viver e se desenvolver no mercado de tecnologia e inovação.
 
 
 ## 👩🏻‍💻 Most Used Languages
