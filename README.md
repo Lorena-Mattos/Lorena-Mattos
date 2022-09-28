@@ -8,7 +8,7 @@
 
 ## 📣 Sobre mim
 
-Aspirante a dev, meu nome é Lorena, tenho 28 anos e vivo no Rio de Janeiro
+Aspirante a dev, meu nome é Lorena, tenho 29 anos e vivo no Rio de Janeiro
 
 Quem é Lorena?
 
