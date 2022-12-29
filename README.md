@@ -30,6 +30,6 @@ Lorena é uma mulher lésbica, nascida e criada Campo Grande, Rio de Janeiro - R
 
 ## 👦🏻 Curiosidades
 - 🔭 I’m currently working on a new project
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning Python, HTML, CSS and JavaScript
 - 😄 Pronouns: She and Her
 - ⚡ Fun fact: I love animals, games and super heroes
