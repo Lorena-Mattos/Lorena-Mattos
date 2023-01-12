@@ -17,7 +17,7 @@ Lorena é uma mulher lésbica, nascida e criada Campo Grande, Rio de Janeiro - R
 
 ## 👩🏻‍💻 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorena-mattos&layout=compact&theme=radical)](https://github.com/lorena-mattos/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lorena-mattos&layout=compact&theme=radical)](https://github.com/lorena-mattos/github-readme-stats)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,7 +25,7 @@ Lorena é uma mulher lésbica, nascida e criada Campo Grande, Rio de Janeiro - R
 ![Python](https://img.shields.io/badge/Python-00006F?style=for-the-badge&logo=python&logoColor=F7DF1E)
 
 ## :gear: &nbsp;GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorena-mattos&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lorena-mattos&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lorena-mattos&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 👦🏻 Curiosidades
