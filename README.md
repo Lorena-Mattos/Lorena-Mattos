@@ -1,4 +1,4 @@
-## 🖖🏻 Hello World! Eu sou Lorena Mattos e esse é meu perfil Profissional! 👩‍🚀:
+## 🖖🏻 Hello World! Eu sou Lorena Mattos e esse é meu perfil Profissional! 👩‍🚀
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/lorena-mattos)](https://github.com/lorena-mattos)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorena-mattos)](https://www.linkedin.com/in/lorena-mattos)
@@ -26,7 +26,6 @@ Lorena é uma mulher lésbica, nascida e criada Campo Grande, Rio de Janeiro - R
 
 ## :gear: &nbsp;GitHub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lorena-mattos&show_icons=true&theme=radical)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lorena-mattos&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 👦🏻 Curiosidades
