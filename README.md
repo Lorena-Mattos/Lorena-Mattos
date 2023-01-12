@@ -26,6 +26,7 @@ Lorena é uma mulher lésbica, nascida e criada Campo Grande, Rio de Janeiro - R
 
 ## :gear: &nbsp;GitHub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lorena-mattos&show_icons=true&theme=radical)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lorena-mattos&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 👦🏻 Curiosidades
