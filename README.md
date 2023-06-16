@@ -1,4 +1,4 @@
-## 🖖🏻 Hello World! Eu sou Lorena Mattos e esse é meu perfil Profissional! 👩‍🚀
+## 🖖🏻 Hello World! Eu sou Lorena Mattos e esse é meu perfil Profissional! / I am Lorena Mattos and this is my professional profile! 👩‍🚀
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/lorena-mattos)](https://github.com/lorena-mattos)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorena-mattos)](https://www.linkedin.com/in/lorena-mattos)
