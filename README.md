@@ -36,6 +36,9 @@ Lorena is a lesbian woman, graduated in law and pursuing a second degree in Web 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lorena-mattos&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lorena-mattos&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+## 🏆 Troféus GitHub
+![](https://github-profile-trophy.vercel.app/?username=lorena-mattos&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 👦🏻 Curiosidades / Curiosities
 - 🔭 I’m currently working on a new project
 - 🌱 I’m currently learning Python, HTML, CSS and JavaScript
