@@ -31,6 +31,7 @@ Lorena is a lesbian woman, graduated in law and pursuing a second degree in Web 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-00006F?style=for-the-badge&logo=python&logoColor=F7DF1E)
+![Flutter](https://img.shields.io/badge/Flutter-40C4FF?style=for-the-badge&logo=flutter&logoColor=084994)
 
 ## :gear: &nbsp;GitHub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lorena-mattos&show_icons=true&theme=radical)
