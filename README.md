@@ -42,6 +42,6 @@ Lorena is a lesbian woman, graduated in law and pursuing a second degree in Web 
 
 ## 👦🏻 Curiosidades / Curiosities
 - 🔭 I’m currently working on a new project
-- 🌱 I’m currently learning Python, HTML, CSS and JavaScript
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript and Flutter
 - 😄 Pronouns: She and Her
 - ⚡ Fun fact: I love animals, games and super heroes
