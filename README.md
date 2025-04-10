@@ -1,27 +1,86 @@
-## 🖖🏻 Hello World! Eu sou Lorena Mattos e esse é meu perfil Profissional! / I am Lorena Mattos and this is my professional profile! 👩‍🚀
+<h1 align="center">✨ Lorena Mattos ✨</h1>
+<p align="center">👩‍💻 Backend Developer | RPA | AI Learner | Python Enthusiast</p>
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/lorena-mattos)](https://github.com/lorena-mattos)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorena-mattos)](https://www.linkedin.com/in/lorena-mattos)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/loren_amattos)](https://www.twitter.com/loren_amattos)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/lolamattos)](https://instagram.com/lolamattos)
+<p align="center">
+  <a href="https://github.com/lorena-mattos">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/lorena-mattos">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.twitter.com/loren_amattos">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://instagram.com/lolamattos">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
 
+---
 
-## 📣 Sobre mim / About me
+## 🇧🇷 Olá, tech recruiters e empresas incríveis!
 
-meu nome é Lorena, tenho 31 anos e vivo no Rio de Janeiro
+Sou a **Lorena Mattos**, desenvolvedora **backend** com coração inquieto, mente lógica e uma paixão por resolver problemas com tecnologia. Minha missão é clara: **criar soluções que automatizam, otimizam e impactam positivamente a vida das pessoas**.
 
-Quem é Lorena?
+🎓 Formada em Direito, troquei os tribunais pela tecnologia e atualmente curso **Análise e Desenvolvimento de Sistemas**.  
+🤖 Atuo como desenvolvedora de **RPA**, automatizando processos administrativos e jurídicos.  
+🧠 Estudo **Inteligência Artificial** e adoro um bom desafio com **Python** e **dados não relacionais (MongoDB)**.
 
-Lorena é uma mulher lésbica, formada em direito e fazendo sua segunda graduação em Analise e Desenvolvimento de Sistemas, atualmente trabalha com desenvolvimento de RPA, nascida e criada Campo Grande, Rio de Janeiro - RJ, fã de cultura pop, mãe de doguinha vira-lata chamada Khaleesi (sim, habemus aqui uma fã de Game of Thrones), e também de uma gatinha chamada Wandinha, participante do primeiro reality da área de programação do Brasil, o Show Me The Code e que está inteiramente disposta a viver e se desenvolver no mercado de tecnologia e inovação, sua maior paixão.
+---
 
-English:
+## 🚀 Projetos em Destaque
 
-My name is Lorena, I'm 31 years old and I live in Rio de Janeiro.
+- 🏦 [**DjangoLivre**](https://github.com/Lorena-Mattos/DjangoLivre) — Uma API bancária robusta, feita com Django REST Framework. JWT, autenticação, rotas bem estruturadas e arquitetura pensada pra escalar.
 
-Who is Lorena?
+- 📄 [**Verificador de Custas**](https://github.com/Lorena-Mattos/verificador-custas) — RPA que automatiza a verificação e salvamento de comprovantes de custas no portal do TJ. Um baita ganho de tempo!
 
-Lorena is a lesbian woman, graduated in law and pursuing a second degree in Systems Analysis and Development. She currently works with RPA development. Born and raised in Campo Grande, Rio de Janeiro - RJ, she is a fan of pop culture and a proud dog mom to a mixed-breed dog named Khaleesi (yes, we have a Game of Thrones fan here) and also a cat named Wandinha. Lorena was a participant in Brazil's first programming reality show, Show Me The Code, and she is fully committed to living and growing in the technology and innovation market, her biggest passion.
+- 🌍 [**Maya Around The World**](https://github.com/Lorena-Mattos/maya-around-the-world) — Um projeto em HTML/CSS responsivo e visualmente atrativo, porque dev backend também gosta de layout bonito 😎
 
+---
+
+## 🧠 Stack e Skills
+
+- **Backend:** Python, Django, Flask  
+- **Automação:** Selenium, RPA, agendadores  
+- **Banco de Dados:** MongoDB, SQLite  
+- **API:** REST, consumo e desenvolvimento  
+- **Extras:** HTML, CSS, Flutter (iniciante), Git/GitHub, testes automatizados  
+- **Soft Skills:** comunicação, autonomia, organização e sede de aprender sempre!
+
+---
+
+## ✨ Curiosidades
+
+- 💥 Participei do reality **Show Me The Code** – o primeiro reality dev do Brasil!
+- 🐾 Mãe da **Khaleesi** (cachorra) e da **Wandinha** (gata) 🐶🐱
+- ☕ Amo café quase tanto quanto codar. Quase.
+
+---
+
+## 💼 Em busca de oportunidades!
+
+Procuro empresas que **valorizem autonomia, inovação e propósito**. Seja como dev backend, RPA ou colaborando em projetos de IA — estou pronta pra somar com o time!  
+Vamos conversar? 🚀
+
+---
+
+## 🌐 English
+
+Hi, I’m **Lorena Mattos**, a **backend developer** who transitioned from Law to Tech to follow my passion for solving real-world problems with automation and smart code.
+
+- 💻 Backend with Python (Django/Flask)
+- ⚙️ RPA Developer (Selenium, bots)
+- 🧠 AI & Machine Learning student
+- 🗃️ NoSQL (MongoDB) and relational DBs
+- 🧪 Test automation, Git/GitHub, REST APIs
+
+### 🚀 Featured Projects:
+
+- [**DjangoLivre**](https://github.com/Lorena-Mattos/DjangoLivre) — Secure & scalable banking API  
+- [**Custas Checker**](https://github.com/Lorena-Mattos/verificador-custas) — RPA to automate court payments checking  
+- [**Maya Around The World**](https://github.com/Lorena-Mattos/maya-around-the-world) — Responsive front-end project
+
+---
 
 ## 👩🏻‍💻 Most Used Languages
 
@@ -40,8 +99,6 @@ Lorena is a lesbian woman, graduated in law and pursuing a second degree in Syst
 ## 🏆 Troféus GitHub
 ![](https://github-profile-trophy.vercel.app/?username=lorena-mattos&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 👦🏻 Curiosidades / Curiosities
-- 🔭 I’m currently working on a new project
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript and Flutter
-- 😄 Pronouns: She and Her
-- ⚡ Fun fact: I love animals, games and super heroes
+---
+
+> Let’s build something meaningful. Together. 🚀
