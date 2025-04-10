@@ -57,27 +57,54 @@ Sou a **Lorena Mattos**, desenvolvedora **backend** com coração inquieto, ment
 ## 💼 Em busca de oportunidades!
 
 Procuro empresas que **valorizem autonomia, inovação e propósito**. Seja como dev backend, RPA ou colaborando em projetos de IA — estou pronta pra somar com o time!  
-Vamos conversar? 🚀
 
 ---
 
 ## 🇺🇸 Welcome to my GitHub space! ✨
 
-Hi, I’m **Lorena Mattos**, a **backend developer** who transitioned from Law to Tech to follow my passion for solving real-world problems with automation and smart code.
+I'm **Lorena Mattos**, a **backend developer** with a restless heart, logical mind, and a passion for solving problems through technology. My mission is simple: **to create solutions that automate, optimize, and positively impact people’s lives**.
 
-- 💻 Backend with Python (Django/Flask)
-- ⚙️ RPA Developer (Selenium, bots)
-- 🧠 AI & Machine Learning student
-- 🗃️ NoSQL (MongoDB) and relational DBs
-- 🧪 Test automation, Git/GitHub, REST APIs
-
-### 🚀 Featured Projects:
-
-- [**DjangoLivre**](https://github.com/Lorena-Mattos/DjangoLivre) — Secure & scalable banking API  
-- [**Custas Checker**](https://github.com/Lorena-Mattos/verificador-custas) — RPA to automate court payments checking  
-- [**Maya Around The World**](https://github.com/Lorena-Mattos/maya-around-the-world) — Responsive front-end project
+🎓 I graduated in Law, swapped the courtrooms for code, and now I’m studying **Systems Analysis and Development**.  
+🤖 I work as an **RPA developer**, automating administrative and legal processes.  
+🧠 I’m diving into **Artificial Intelligence** and love tackling challenges with **Python** and **NoSQL databases (MongoDB)**.
 
 ---
+
+## 🚀 Featured Projects
+
+- 🏦 [**DjangoLivre**](https://github.com/Lorena-Mattos/DjangoLivre) — A robust banking API built with Django REST Framework. JWT auth, clean routes, and a scalable architecture.
+
+- 📄 [**Custas Checker**](https://github.com/Lorena-Mattos/verificador-custas) — RPA that automates checking and saving payment proofs on the Brazilian Court portal. A real time-saver!
+
+- 🌍 [**Maya Around The World**](https://github.com/Lorena-Mattos/maya-around-the-world) — A responsive and visually appealing HTML/CSS project – because backend devs love good design too 😎
+
+---
+
+## 🧠 Stack and Skills
+
+- **Backend:** Python, Django, Flask  
+- **Automation:** Selenium, RPA, job schedulers  
+- **Databases:** MongoDB, SQLite  
+- **API:** REST, both consuming and building  
+- **Extras:** HTML, CSS, Flutter (beginner), Git/GitHub, automated testing  
+- **Soft Skills:** communication, autonomy, organization, and an endless thirst for learning!
+
+---
+
+## ✨ Fun Facts
+
+- 💥 Participated in **Show Me The Code** – the first Brazilian dev reality show!
+- 🐾 Pet mom to **Khaleesi** (dog) and **Wandinha** (cat) 🐶🐱  
+- ☕ I love coffee almost as much as I love coding. Almost.
+
+---
+
+## 💼 Open to opportunities!
+
+I'm looking for companies that **value autonomy, innovation, and purpose**. Whether it's as a backend dev, working on RPA, or contributing to AI projects — I'm ready to add value to the team!
+
+---
+
 
 ## 👩🏻‍💻 Most Used Languages
 
