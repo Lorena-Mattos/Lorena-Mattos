@@ -15,7 +15,7 @@
 
 ---
 
-## 🇧🇷 Olá, tech recruiters e empresas incríveis!
+## 🇧🇷 Seja bem-vindo(a) ao meu espaço no GitHub!
 
 Sou a **Lorena Mattos**, desenvolvedora **backend** com coração inquieto, mente lógica e uma paixão por resolver problemas com tecnologia. Minha missão é clara: **criar soluções que automatizam, otimizam e impactam positivamente a vida das pessoas**.
 
@@ -61,7 +61,7 @@ Vamos conversar? 🚀
 
 ---
 
-## 🌐 English
+## 🌐 Welcome to my GitHub space!
 
 Hi, I’m **Lorena Mattos**, a **backend developer** who transitioned from Law to Tech to follow my passion for solving real-world problems with automation and smart code.
 
