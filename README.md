@@ -1,6 +1,10 @@
 <h1 align="center">✨ Lorena Mattos ✨</h1>
 <p align="center">👩‍💻 Backend Developer | RPA | AI Learner | Python Enthusiast</p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=I+automate+so+I+can+nap+more;Bots+do+the+boring+stuff;RPA+is+my+partner+in+crime" alt="Typing SVG" />
+</div>
+
 <p align="center">
   <a href="https://github.com/lorena-mattos">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -27,15 +31,45 @@ Sou a **Lorena Mattos**, desenvolvedora **backend** com coração inquieto, ment
 
 ## 🚀 Projetos em Destaque
 
-- 🏦 [**DjangoLivre**](https://github.com/Lorena-Mattos/DjangoLivre) — Uma API bancária robusta, feita com Django REST Framework. JWT, autenticação, rotas bem estruturadas e arquitetura pensada pra escalar.
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>🏦 DjangoLivre</h3>
+        <p>Uma API bancária robusta construída com Django REST Framework. Autenticação JWT, rotas limpas e uma arquitetura escalável.</p>
+        <a href="https://github.com/Lorena-Mattos/DjangoLivre">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lorena-Mattos&repo=DjangoLivre&theme=radical" />
+        </a>
+      </td>
+      <td width="50%">
+        <h3>📄 Verificador de Custas</h3>
+        <p>RPA que automatiza a verificação e o salvamento de comprovantes de pagamento no portal do Tribunal Brasileiro. Um verdadeiro salva-tempo!</p>
+        <a href="https://github.com/Lorena-Mattos/verificador-pagamento-custas-jud">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lorena-Mattos&repo=verificador-pagamento-custas-jud&theme=radical" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <h3>🌍 Maya Around The World</h3>
+        <p>Um projeto HTML/CSS responsivo e visualmente atraente – porque desenvolvedores backend também amam um bom design 😎</p>
+        <a href="https://github.com/Lorena-Mattos/maya-around-the-world">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lorena-Mattos&repo=maya-around-the-world&theme=radical" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 📄 [**Verificador de Custas**](https://github.com/Lorena-Mattos/verificador-custas) — RPA que automatiza a verificação e salvamento de comprovantes de custas no portal do TJ. Um baita ganho de tempo!
-
-- 🌍 [**Maya Around The World**](https://github.com/Lorena-Mattos/maya-around-the-world) — Um projeto em HTML/CSS responsivo e visualmente atrativo, porque dev backend também gosta de layout bonito 😎
 
 ---
 
 ## 🧠 Stack e Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,mongodb,selenium,git,github,html,css,dart" />
+</div>
+<br>
 
 - **Backend:** Python, Django, Flask  
 - **Automação:** Selenium, RPA, agendadores  
@@ -72,15 +106,44 @@ I'm **Lorena Mattos**, a **backend developer** with a restless heart, logical mi
 
 ## 🚀 Featured Projects
 
-- 🏦 [**DjangoLivre**](https://github.com/Lorena-Mattos/DjangoLivre) — A robust banking API built with Django REST Framework. JWT auth, clean routes, and a scalable architecture.
-
-- 📄 [**Custas Checker**](https://github.com/Lorena-Mattos/verificador-custas) — RPA that automates checking and saving payment proofs on the Brazilian Court portal. A real time-saver!
-
-- 🌍 [**Maya Around The World**](https://github.com/Lorena-Mattos/maya-around-the-world) — A responsive and visually appealing HTML/CSS project – because backend devs love good design too 😎
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>🏦 DjangoLivre</h3>
+        <p>A robust banking API built with Django REST Framework. JWT auth, clean routes, and a scalable architecture.</p>
+        <a href="https://github.com/Lorena-Mattos/DjangoLivre">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lorena-Mattos&repo=DjangoLivre&theme=radical" />
+        </a>
+      </td>
+      <td width="50%">
+        <h3>📄 Verificador de Custas</h3>
+        <p>RPA that automates checking and saving payment proofs on the Brazilian Court portal. A real time-saver!</p>
+        <a href="https://github.com/Lorena-Mattos/verificador-pagamento-custas-jud">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lorena-Mattos&repo=verificador-pagamento-custas-jud&theme=radical" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <h3>🌍 Maya Around The World</h3>
+        <p>A responsive and visually appealing HTML/CSS project – because backend devs love good design too 😎</p>
+        <a href="https://github.com/Lorena-Mattos/maya-around-the-world">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lorena-Mattos&repo=maya-around-the-world&theme=radical" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🧠 Stack and Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,mongodb,selenium,git,github,html,css,dart" />
+</div>
+<br>
 
 - **Backend:** Python, Django, Flask  
 - **Automation:** Selenium, RPA, job schedulers  
@@ -106,16 +169,24 @@ I'm looking for companies that **value autonomy, innovation, and purpose**. Whet
 ---
 
 
-## 👩🏻‍💻 Most Used Languages
+## 👩🏻‍💻 Backend & Automação | Backend & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### Banco de Dados | Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Frontend & Mobile
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lorena-mattos&layout=compact&theme=radical)](https://github.com/lorena-mattos/github-readme-stats)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-00006F?style=for-the-badge&logo=python&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-40C4FF?style=for-the-badge&logo=dart&logoColor=084994)
-
+---
 ## :gear: &nbsp;GitHub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lorena-mattos&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lorena-mattos&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
