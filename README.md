@@ -83,7 +83,7 @@ Sou a **Lorena Mattos**, desenvolvedora **backend** com coração inquieto, ment
 ## ✨ Curiosidades
 
 - 💥 Participei do reality **Show Me The Code** – o primeiro reality dev do Brasil!
-- 🐾 Mãe da **Khaleesi** (cachorra) e da **Wandinha** (gata) 🐶🐱
+- 🐾 Mãe da **Khaleesi** (cachorra), Black (cachorro), Frajola (gato) e da **Wandinha** (gata) 🐶🐱
 - ☕ Amo café quase tanto quanto codar. Quase.
 
 ---
@@ -157,7 +157,7 @@ I'm **Lorena Mattos**, a **backend developer** with a restless heart, logical mi
 ## ✨ Fun Facts
 
 - 💥 Participated in **Show Me The Code** – the first Brazilian dev reality show!
-- 🐾 Pet mom to **Khaleesi** (dog) and **Wandinha** (cat) 🐶🐱  
+- 🐾 Pet mom to **Khaleesi** (dog), Black (dog), Frajola (cat) and **Wandinha** (cat) 🐶🐱  
 - ☕ I love coffee almost as much as I love coding. Almost.
 
 ---
