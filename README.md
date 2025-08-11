@@ -73,7 +73,7 @@ Sou a **Lorena Mattos**, desenvolvedora **backend** com coração inquieto, ment
 
 - **Backend:** Python, Django, Flask  
 - **Automação:** Selenium, RPA, agendadores  
-- **Banco de Dados:** MongoDB, SQLite  
+- **Banco de Dados:** MongoDB
 - **API:** REST, consumo e desenvolvimento  
 - **Extras:** HTML, CSS, Flutter (iniciante), Git/GitHub, testes automatizados  
 - **Soft Skills:** comunicação, autonomia, organização e sede de aprender sempre!
@@ -147,7 +147,7 @@ I'm **Lorena Mattos**, a **backend developer** with a restless heart, logical mi
 
 - **Backend:** Python, Django, Flask  
 - **Automation:** Selenium, RPA, job schedulers  
-- **Databases:** MongoDB, SQLite  
+- **Databases:** MongoDB 
 - **API:** REST, both consuming and building  
 - **Extras:** HTML, CSS, Flutter (beginner), Git/GitHub, automated testing  
 - **Soft Skills:** communication, autonomy, organization, and an endless thirst for learning!
@@ -177,7 +177,6 @@ I'm looking for companies that **value autonomy, innovation, and purpose**. Whet
 
 ### Banco de Dados | Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Frontend & Mobile
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
