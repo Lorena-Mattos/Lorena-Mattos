@@ -183,15 +183,16 @@ I'm looking for companies that **value autonomy, innovation, and purpose**. Whet
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lorena-mattos&layout=compact&theme=radical)](https://github.com/lorena-mattos/github-readme-stats)
+![Lang](https://gitmystat.vercel.app/top?theme=tokyonight&username=lorena-mattos&layout=bar)
+
 
 ---
 ## :gear: &nbsp;GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorena-mattos&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lorena-mattos&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorena-mattos&theme=tokyonight&hide_border=true&border_radius=10)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=lorena-mattos&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 ## 🏆 Troféus GitHub
-![](https://github-profile-trophy.vercel.app/?username=lorena-mattos&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=lorena-mattos&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
